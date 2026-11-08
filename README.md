@@ -8,7 +8,7 @@ Le dossier 'screenshots' contient les captures d'écran des tests et des résult
 
 ## Atelier 6 — FastAPI et Streamlit
 
-Pour l'Atelier 6, j'ai cloné et utilisé le code FastAPI et Streamlit fourni par vous : 
+Pour l'Atelier 6, j'ai cloné et utilisé le code FastAPI et Streamlit fourni par le prof : 
 
 https://github.com/msellamiTN/Cloudera-CDP-Training
 
